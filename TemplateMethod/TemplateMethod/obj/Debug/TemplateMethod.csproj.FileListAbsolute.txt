@@ -1,0 +1,7 @@
+D:\MSVS Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\MSVS Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\MSVS Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\MSVS Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+D:\MSVS Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\MSVS Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\MSVS Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
